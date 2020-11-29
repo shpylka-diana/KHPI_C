@@ -22,8 +22,3 @@ doxygen:
 format: #TODO
 
 tidy: # TODO
-
-
-
-
-
