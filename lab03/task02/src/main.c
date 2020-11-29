@@ -6,7 +6,5 @@
             int c = NUM % 10; // 6
             int result = (c * 100) + (b * 10) + a; //654
 
-
-
         return 0;
         }
