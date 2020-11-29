@@ -1,5 +1,5 @@
 #define NUM1 12 
-#define NUM2 15  // диапазон от 12 до 15
+#define NUM2 15 // диапазон от 12 до 15
 
 int main()
 {
