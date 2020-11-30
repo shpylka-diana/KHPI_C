@@ -15,7 +15,7 @@ compile:
     $(CC) $(C_OPTS) task03/src/main.c -o dist/main3.bin
     $(CC) $(C_OPTS) task04/src/main.c -o dist/main4.bin
     $(CC) $(C_OPTS) task05/src/main.c -o dist/main5.bin
-    $(CC) $(C_OPTS) task06/src/main.c -o dist/main5.bin
+    $(CC) $(C_OPTS) task06/src/main.c -o dist/main6.bin
     
 doxygen:
 	doxygen Doxyfile
