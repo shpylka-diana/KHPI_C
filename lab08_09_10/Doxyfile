@@ -1,6 +1,6 @@
 ## Common Project info
 PROJECT_NAME = "Лабораторні №8, №9, №10"
-PROJECT_BRIEF = "Переробка прогрмам з використанням функцій"
+PROJECT_BRIEF = "Переробка програм з використанням функцій"
 PROJECT_NUMBER = 0.1
 
 ## output options
