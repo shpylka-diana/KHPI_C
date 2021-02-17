@@ -1,6 +1,6 @@
 ## Common Project info
-PROJECT_NAME = "lab07(05_task4)"
-PROJECT_BRIEF = "Визначити, чи є задане число досконалим"
+PROJECT_NAME = "Лабораторні №8, №9, №10"
+PROJECT_BRIEF = "Переробка прогрмам з використанням функцій"
 PROJECT_NUMBER = 0.1
 
 ## output options
